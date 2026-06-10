@@ -3,3 +3,8 @@
 **/.ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
